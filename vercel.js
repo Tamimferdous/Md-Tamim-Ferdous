@@ -1,6 +1,6 @@
 {
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/portfolio_tamim.html" }
+    { "src": "/.*", "dest": "portfolio_tamim.html" }
   ]
 }
